@@ -1,17 +1,9 @@
-# Hiro Ordinals Explorer
-
-➡️ https://ordinals.hiro.so 🌐
-
-![Ordinals Explorer](public/og-image.png)
+# Novo Net Explorer
 
 ## Overview
 
-The Ordinals Explorer is a Next.js (app router) project that uses the [Hiro Ordinals API](https://docs.hiro.so/ordinals).
+The Novo Explorer is a Next.js project, adapted from Hiro Ordinals Explorer, that uses a self-hosted API.
 
-There are two main parts of this project:
-
-- The explorer `app/(explorer)` — A frontend for exploring ordinal inscriptions
-- The preview API `app/(preview)` — An endpoint to render a specific ordinal inscription
 
 ## Development
 
